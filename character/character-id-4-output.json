@@ -2,11 +2,11 @@
   "data": {
     "character": {
       "id": "4",
-      "name": "Jhon Sanchez",
+      "name": "Beth Smith",
       "status": "Alive",
       "species": "Human",
       "type": "",
-      "gender": "Male"
+      "gender": "Female"
     }
   }
 }
